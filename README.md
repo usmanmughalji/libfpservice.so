@@ -16,9 +16,9 @@ Maybe need to patch Aliplay functions
 | android::notifyClient    | 1B414       | yes                           |
 | android::notifyClient    | 1B418       | yes                           |
 | android::notifyClient    | 1B420       | yes                           |
-| android::postData2Client | 1C644       | no                            |
-| android::postData2Client | 1C648       | no                            |
-| android::postData2Client | 1C64C       | no                            |
-| android::postData2Client | 1C654       | no                            |
+| android::postData2Client | 1C644       | yes                           |
+| android::postData2Client | 1C648       | yes                           |
+| android::postData2Client | 1C64C       | yes                           |
+| android::postData2Client | 1C654       | yes                           |
 
 2 functions, 8 patch places
