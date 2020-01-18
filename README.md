@@ -12,10 +12,10 @@ Maybe need to patch Aliplay functions
 
 | Function                 | Patch place | Patch status (patched or not) |
 | :----------------------- | :---------- | :---------------------------- |
-| android::notifyClient    | 1B410       | no                            |
-| android::notifyClient    | 1B414       | no                            |
-| android::notifyClient    | 1B418       | no                            |
-| android::notifyClient    | 1B420       | no                            |
+| android::notifyClient    | 1B410       | yes                           |
+| android::notifyClient    | 1B414       | yes                           |
+| android::notifyClient    | 1B418       | yes                           |
+| android::notifyClient    | 1B420       | yes                           |
 | android::postData2Client | 1C644       | no                            |
 | android::postData2Client | 1C648       | no                            |
 | android::postData2Client | 1C64C       | no                            |
